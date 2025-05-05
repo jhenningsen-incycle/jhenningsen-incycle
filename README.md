@@ -12,10 +12,8 @@ I'm a Sr Cloud Consultant with a passion for AI and Data Science and Engineering
 
 ## 🏆 Certifications:
 
-[![GitHub Foundations Certification]([YOUR_CREDLY_BADGE_IMAGE_URL](https://www.credly.com/badges/e0b47370-5019-49d6-9247-32983dfb83d2/public_url))](YOUR_CREDLY_CERTIFICATE_URL)
+[![GitHub Foundations Certification](https://www.credly.com/badges/e0b47370-5019-49d6-9247-32983dfb83d2/public_url)](https://www.credly.com/badges/e0b47370-5019-49d6-9247-32983dfb83d2/public_url)
 
-* **[Name of Certification 1]** - [Issuing Organization]
-* **[Name of Certification 2]** - [Issuing Organization]
 ---
 
 ## 📊 GitHub Stats:
