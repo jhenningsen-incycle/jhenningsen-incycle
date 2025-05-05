@@ -1,6 +1,6 @@
 # Hi there, I'm Jarrod Henningsen 👋
 
-I'm a Sr Cloud Consultant with a passion for AI and Data Science and Engineering. I enjoy working on projects related to Microsoft Fabric, Python and AI.
+I'm a Sr Cloud Consultant with a passion for AI and Data Science & Engineering. I enjoy working on projects related to Microsoft Fabric, Python, and AI.
 
 ---
 
