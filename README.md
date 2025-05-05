@@ -7,12 +7,16 @@ I'm a Sr Cloud Consultant with a passion for AI and Data Science and Engineering
 ## 🛠️ Skills & Technologies:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-0F4C5F?style=for-the-badge&logo=microsoftfabric&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 🏆 Certifications:
 
-[![GitHub Foundations Certification](https://www.credly.com/badges/e0b47370-5019-49d6-9247-32983dfb83d2/public_url)](https://www.credly.com/badges/e0b47370-5019-49d6-9247-32983dfb83d2/public_url)
+<a href="https://www.credly.com/badges/e0b47370-5019-49d6-9247-32983dfb83d2/public_url" target="_blank">
+  <img src="https://github.com/jhenningsen-incycle/jhenningsen-incycle/blob/main/github-foundations.png?raw=true" alt="GitHub Foundations Certification" width="250"/>
+</a>
 
 ---
 
